@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1071359568015",
+    "firebase_url": "https://travel-snap.firebaseio.com",
+    "project_id": "travel-snap",
+    "storage_bucket": "travel-snap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071359568015:android:80e59ace7bf79f6a",
+        "android_client_info": {
+          "package_name": "com.visionarydeveloper.travelsnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071359568015-3lis6q6ohc6qfiv6tr5j15hnjf9uqa97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoRPXBJA767ck1cS01GdvxMEOjDm5Vb48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

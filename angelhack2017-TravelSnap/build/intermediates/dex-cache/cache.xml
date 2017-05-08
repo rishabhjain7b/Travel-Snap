@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gagan/androidprojects/TravelSnap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/gagan/androidprojects/TravelSnap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d2714b59de56a9fcac86497a75ef6e1dfa61f7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/gagan/androidprojects/TravelSnap/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_5b8ffbce994951b7697bc7976427fad00a894693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagan/.android/build-cache/190f897f38b43375940b066c68bb33b1e722e65f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/gagan/androidprojects/TravelSnap/app/build/intermediates/pre-dexed/debug/classes_ff8d3621c544e64c290ef8912c32219bbe084e89.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gagan/androidprojects/TravelSnap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="050c0a6af8fe680d4ea361b1d0dc1032e94a1a09">
+        <dex dex="/home/gagan/androidprojects/TravelSnap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d54cfd49bb3cda5f33352eca56cbf447611ff2b/classes.dex" />
+    </item>
+
+</items>
